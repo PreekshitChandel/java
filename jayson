@@ -1,0 +1,36 @@
+{
+	"FOOD":{
+			"Id" : "01",
+			"Name" : "Dosa"''
+			"Region" : "South",
+			"Price" : "110",
+
+
+	},
+
+        {
+			"Id" : "02",
+			"Name" : "Chole Bhature",
+			"Region" : "North",
+			"Price" : "50",
+
+
+	},
+	    {
+			"Id" : "03",
+			"Name" : "Rosogolla",
+			"Region" : "West",
+			"Price" : "90",
+
+
+	},
+
+	    {
+			"Id" : "04",
+			"Name" : "Dhokala",
+			"Region" : "East",
+			"Price" : "80a",
+
+
+	},
+}
